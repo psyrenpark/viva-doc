@@ -20,9 +20,11 @@
 
 ## 설명
 
-![sv_viva_infra_v1](https://user-images.githubusercontent.com/21073578/105473977-1551a000-5ce1-11eb-97d1-6499d40cf382.png)
+### sv viba serverless infra v1
+![sv_viva_infra_v1](https://user-images.githubusercontent.com/21073578/105474653-d708b080-5ce1-11eb-9d62-feb3e95a469d.png)
 
-![sv_viva_infra_v2](https://user-images.githubusercontent.com/21073578/105474028-269aac80-5ce1-11eb-9764-13a83f04fc91.png)
+### sv viba serverless infra v2
+![sv_viva_infra_v2](https://user-images.githubusercontent.com/21073578/105474733-ec7dda80-5ce1-11eb-8ed4-a5355eda87f2.png)
 
 효율적 개발이 가능하도록 프로젝트마다 공통된 부분을 서버 인프라, 백엔드, 클라이언트(웹,cms, 앱)사이의 기능을 묶어 제작함
 
