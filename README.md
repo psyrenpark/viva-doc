@@ -25,14 +25,14 @@
 - [@psyrenpark/auth](https://www.npmjs.com/package/@psyrenpark/auth) -> 인증,권한 및 유저관리 (cogntio, admin)
 - [@psyrenpark/api](https://www.npmjs.com/package/@psyrenpark/api) -> API (lambda, api gateway, appsync)
 - [@psyrenpark/storage](https://www.npmjs.com/package/@psyrenpark/storage) -> 파일 관리 시스탬 (s3)
+- [@psyrenpark/express-lib](https://www.npmjs.com/package/@psyrenpark/express-lib) -> Backend Lib (express, node.js, sms, email, nosql, aws 관련 서비스, 배치)
 - [@psyrenpark/cache](https://www.npmjs.com/package/@psyrenpark/cache) -> 로컬 스토리지 및 캐싱 (s3)
 - [@psyrenpark/i18n](https://www.npmjs.com/package/@psyrenpark/i18n) -> 다국어 처리 (s3)
 - [@psyrenpark/aws-cdk](https://www.npmjs.com/package/@psyrenpark/aws-cdk) -> 인프라 구축 (aws-cdk)
 - [@psyrenpark/aws-cdk-output](https://www.npmjs.com/package/@psyrenpark/aws-cdk-output) -> amplify
   key (aws-cdk amplify 연동)
-- [@psyrenpark/express-lib](https://www.npmjs.com/package/@psyrenpark/express-lib) -> Backend Lib (express, node.js, sms, email, nosql, aws 관련 서비스, 배치)
 - Common UI (react & react-native의 로그인 관련, cms, 게시판) [진행중-202010~]
-- Realtime 요소 (채팅, 알림, 공지) [진행중-202101~]
+- Realtime 요소 (채팅, 알림, 공지등 소켓/mqtt) [진행중-202101~]
 - 디버깅 및 테스트 [테스트중-202101~]
 
 #
@@ -137,7 +137,9 @@ lambda는 서비스를 사용하여 상시 서버가 아닌 필요시에만 실�
 
 ```
 2.0.x
--
+- 어드민과 유저 분리 인프라 구축
+- 휴대폰 번호를 고유키로 로그인 기능 추구[테스트]
+- 실시간 관련 작업중
 
 1.0.x
 -
