@@ -40,6 +40,7 @@
 - Common UI (react & react-native의 로그인 관련, cms, 게시판) [진행중-202010~]
 - Realtime 요소 (채팅, 알림, 공지등 소켓/mqtt) [진행중-202101~]
 - 디버깅 및 테스트 [테스트중-202101~]
+- [@psyrenpark/sz-native](https://www.npmjs.com/package/@psyrenpark/sz-native) -> 다국어 관련 모듈 및 광고 모듈
 
 #
 
